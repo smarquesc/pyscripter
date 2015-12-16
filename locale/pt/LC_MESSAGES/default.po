@@ -2005,27 +2005,27 @@ msgstr ""
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbParseMessages..Caption
 #: dlgToolProperties.dfm:509
 msgid "Parse &Messages"
-msgstr ""
+msgstr "Analisar &Mensagens"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbParseTraceback..Caption
 #: dlgToolProperties.dfm:524
 msgid "Parse &Traceback"
-msgstr ""
+msgstr "Analisar &Traceback"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..Label10..Caption
 #: dlgToolProperties.dfm:535
 msgid "Std. &Input:"
-msgstr ""
+msgstr "Std. &Entrada:"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..Label11..Caption
 #: dlgToolProperties.dfm:543
 msgid "Std. &Output:"
-msgstr ""
+msgstr "Std. &Saída:"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..Label12..Caption
 #: dlgToolProperties.dfm:551
 msgid "Messages &Format:"
-msgstr ""
+msgstr "&Formato das Mensagens:"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..edMessagesFormat....Hint
 #: dlgToolProperties.dfm:561
@@ -2047,24 +2047,24 @@ msgstr ""
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbStandardOutput....Items.Strings
 #: dlgToolProperties.dfm:579 dlgToolProperties.dfm:597
 msgid "Word at cursor"
-msgstr ""
+msgstr "Palavra no cursor"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbStandardInput....Items.Strings
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbStandardOutput....Items.Strings
 #: dlgToolProperties.dfm:580 dlgToolProperties.dfm:598
 msgid "Current line"
-msgstr ""
+msgstr "Linha atual"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbStandardInput....Items.Strings
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbStandardOutput....Items.Strings
 #: dlgToolProperties.dfm:581 dlgToolProperties.dfm:599
 msgid "Selection"
-msgstr ""
+msgstr "Seleção"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbStandardInput....Items.Strings
 #: dlgToolProperties.dfm:582
 msgid "ActiveFile"
-msgstr ""
+msgstr "Arquivo Ativo"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbStandardOutput....Hint
 #: dlgToolProperties.dfm:591
@@ -2077,7 +2077,7 @@ msgstr ""
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbStandardOutput....Items.Strings
 #: dlgToolProperties.dfm:600
 msgid "Active file"
-msgstr ""
+msgstr "Arquivo ativo"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbStandardOutput....Items.Strings
 #: dlgToolProperties.dfm:601
@@ -2087,17 +2087,17 @@ msgstr "Novo arquivo"
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox5..Caption
 #: dlgToolProperties.dfm:609
 msgid "Console"
-msgstr ""
+msgstr "Console"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox5..cbHideConsole..Hint
 #: dlgToolProperties.dfm:617
 msgid "Check to hide the console."
-msgstr ""
+msgstr "Marcar para ocultar o console."
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox5..cbHideConsole..Caption
 #: dlgToolProperties.dfm:618
 msgid "&Hide console"
-msgstr ""
+msgstr "&Ocultar o console"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox5..cbWaitForTermination....Hint
 #: dlgToolProperties.dfm:631
@@ -2109,12 +2109,12 @@ msgstr ""
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox5..cbWaitForTermination..Caption
 #: dlgToolProperties.dfm:632
 msgid "&Wait for Termination"
-msgstr ""
+msgstr "&Aguardar por Terminação"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox5..Label9..Caption
 #: dlgToolProperties.dfm:643
 msgid "&Timeout (ms):"
-msgstr ""
+msgstr "&Tempo esgotado (ms):"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox5..seTimeout....Hint
 #: dlgToolProperties.dfm:653
@@ -2126,67 +2126,67 @@ msgstr ""
 #. ToolProperties..FormatsPopup..Filename1..Caption
 #: dlgToolProperties.dfm:671
 msgid "Filename"
-msgstr ""
+msgstr "Nome do arquivo"
 
 #. ToolProperties..FormatsPopup..Filename1..Hint
 #: dlgToolProperties.dfm:672
 msgid "Placeholder of the Filename"
-msgstr ""
+msgstr "Espaço reservado para o nome do arquivo"
 
 #. ToolProperties..FormatsPopup..Linenumber1..Caption
 #: dlgToolProperties.dfm:677
 msgid "Linenumber"
-msgstr ""
+msgstr "Número da linha"
 
 #. ToolProperties..FormatsPopup..Linenumber1..Hint
 #: dlgToolProperties.dfm:678
 msgid "Placeholder for the Linenumber"
-msgstr ""
+msgstr "Espaço reservado para o número da linha"
 
 #. ToolProperties..FormatsPopup..Columnnumber1..Caption
 #: dlgToolProperties.dfm:683
 msgid "Columnnumber"
-msgstr ""
+msgstr "Número da coluna"
 
 #. ToolProperties..FormatsPopup..Columnnumber1..Hint
 #: dlgToolProperties.dfm:684
 msgid "Placeholder for the Columnnumber"
-msgstr ""
+msgstr "Espaço reservado para o número da coluna"
 
 #. UnitTestWizard..Caption
 #: dlgUnitTestWizard.dfm:3
 msgid "Unit Test Wizard"
-msgstr ""
+msgstr "Assistente de Teste de Unidade"
 
 #. UnitTestWizard..Panel1..Label1....Caption
 #: dlgUnitTestWizard.dfm:77
 msgid "Select the functions and methods for which tests will be generated:"
-msgstr ""
+msgstr "Selecione as funções e os métodos para os quais os testes serão gerados:"
 
 #. UnitTestWizard..Panel1..lbHeader..Caption
 #: dlgUnitTestWizard.dfm:84
 msgid "This wizard will generate unit tests for the Python module"
-msgstr ""
+msgstr "Este assistente irá gerar testes de unidade para o módulo Python"
 
 #. UnitTestWizard..PopupUnitTestWizard..mnSelectAll..Caption
 #: dlgUnitTestWizard.dfm:132
 msgid "Select All"
-msgstr ""
+msgstr "Selecionar tudo"
 
 #. UnitTestWizard..PopupUnitTestWizard..mnSelectAll..Hint
 #: dlgUnitTestWizard.dfm:133
 msgid "Select all nodes"
-msgstr ""
+msgstr "Selecionar todos os nós"
 
 #. UnitTestWizard..PopupUnitTestWizard..mnDeselectAll..Caption
 #: dlgUnitTestWizard.dfm:138
 msgid "Deselect All"
-msgstr ""
+msgstr "Desmarcar tudo"
 
 #. UnitTestWizard..PopupUnitTestWizard..mnDeselectAll..Hint
 #: dlgUnitTestWizard.dfm:139
 msgid "Deselect all nodes"
-msgstr ""
+msgstr "Desmarcar todos os nós"
 
 #. CommandsDataModule..ParameterCompletion..Title
 #. CommandsDataModule..actlMain..actParameterCompletion..Category
@@ -2197,37 +2197,37 @@ msgstr ""
 #: dmCommands.dfm:874 dmCommands.dfm:4259 dmCommands.dfm:4267
 #: dmCommands.dfm:4275 dmCommands.dfm:4298 frmPyIDEMain.dfm:600
 msgid "Parameters"
-msgstr ""
+msgstr "Parâmetros"
 
 #. CommandsDataModule..ModifierCompletion..Title
 #: dmCommands.dfm:902
 msgid "Modifiers"
-msgstr ""
+msgstr "Modificadores"
 
 #. CommandsDataModule..CodeTemplatesCompletion....AutoCompleteList.Strings
 #: dmCommands.dfm:929
 msgid "|Python Module header"
-msgstr ""
+msgstr "|Cabeçalho de Módulo Python"
 
 #. CommandsDataModule..CodeTemplatesCompletion....AutoCompleteList.Strings
 #: dmCommands.dfm:946
 msgid "|Comment Line"
-msgstr ""
+msgstr "|Comentário de Linha"
 
 #. CommandsDataModule..CodeTemplatesCompletion....AutoCompleteList.Strings
 #: dmCommands.dfm:952
 msgid "|Python application"
-msgstr ""
+msgstr "|Aplicação Python"
 
 #. CommandsDataModule..CodeTemplatesCompletion....AutoCompleteList.Strings
 #: dmCommands.dfm:959
 msgid "|Python class"
-msgstr ""
+msgstr "|Classe Python"
 
 #. CommandsDataModule..CodeTemplatesCompletion....AutoCompleteList.Strings
 #: dmCommands.dfm:968
 msgid "|File encoding comment"
-msgstr ""
+msgstr "|Comentário de codificação de arquivo"
 
 #. CommandsDataModule..actlMain..actFileSave..Category
 #. CommandsDataModule..actlMain..actFileSaveAs..Category
@@ -2272,17 +2272,17 @@ msgstr "&Salvar"
 #. CommandsDataModule..actlMain..actFileSave..Hint
 #: dmCommands.dfm:3949
 msgid "Save|Save active file"
-msgstr ""
+msgstr "Salvar|Salvar arquivo ativo"
 
 #. CommandsDataModule..actlMain..actFileSaveAs..Caption
 #: dmCommands.dfm:3956
 msgid "Save &As..."
-msgstr "Salvar &como..."
+msgstr "Salvar &Como..."
 
 #. CommandsDataModule..actlMain..actFileSaveAs..Hint
 #: dmCommands.dfm:3959
 msgid "Save As|Save active file under different name"
-msgstr ""
+msgstr "Salvar Como|Salvar arquivo ativo com um nome diferente"
 
 #. CommandsDataModule..actlMain..actFileClose..Caption
 #. OutputWindow..OutputActions..actToolClose..Caption
@@ -2293,7 +2293,7 @@ msgstr "&Fechar"
 #. CommandsDataModule..actlMain..actFileClose..Hint
 #: dmCommands.dfm:3967
 msgid "Close|Close active file"
-msgstr ""
+msgstr "Fechar|Fechar arquivo ativo"
 
 #. CommandsDataModule..actlMain..actEditCut..Category
 #. CommandsDataModule..actlMain..actEditCopy..Category
@@ -2327,79 +2327,79 @@ msgstr ""
 #: dmCommands.dfm:4542 dmCommands.dfm:4580 frmFunctionList.dfm:255
 #: frmToDo.dfm:524 frmToDo.dfm:554
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #. CommandsDataModule..actlMain..actEditCut..Caption
 #: dmCommands.dfm:3974
 msgid "Cu&t"
-msgstr ""
+msgstr "Cor&tar"
 
 #. CommandsDataModule..actlMain..actEditCut..Hint
 #: dmCommands.dfm:3978
 msgid "Cut|Cuts the selection and puts it on the Clipboard"
-msgstr ""
+msgstr "Cortar|Cortar a seleção e colar na Área de transferência"
 
 #. CommandsDataModule..actlMain..actEditCopy..Caption
 #. FindResultsWindow..Actions..actFileCopy..Caption
 #: dmCommands.dfm:3984 frmFindResults.dfm:350
 msgid "&Copy"
-msgstr ""
+msgstr "&Copiar"
 
 #. CommandsDataModule..actlMain..actEditCopy..Hint
 #: dmCommands.dfm:3988
 msgid "Copy|Copies the selection and puts it on the Clipboard"
-msgstr ""
+msgstr "Copiar|Copiar a seleção e colar na Área de transferência"
 
 #. CommandsDataModule..actlMain..actEditPaste..Caption
 #: dmCommands.dfm:3994
 msgid "&Paste"
-msgstr ""
+msgstr "&Colar"
 
 #. CommandsDataModule..actlMain..actEditPaste..Hint
 #: dmCommands.dfm:3997
 msgid "Paste|Inserts Clipboard contents"
-msgstr ""
+msgstr "Colar|Inserir conteúdo da Área de transferência"
 
 #. CommandsDataModule..actlMain..actEditDelete..Caption
 #: dmCommands.dfm:4003
 msgid "De&lete"
-msgstr ""
+msgstr "Ex&cluir"
 
 #. CommandsDataModule..actlMain..actEditDelete..Hint
 #: dmCommands.dfm:4007
 msgid "Delete|Delete selection"
-msgstr ""
+msgstr "Excluir|Excluir seleção"
 
 #. CommandsDataModule..actlMain..actEditUndo..Caption
 #: dmCommands.dfm:4012
 msgid "&Undo"
-msgstr ""
+msgstr "&Desfazer"
 
 #. CommandsDataModule..actlMain..actEditUndo..Hint
 #: dmCommands.dfm:4016
 msgid "Undo|Reverts the last action"
-msgstr ""
+msgstr "Desfazer|Reverter a última ação"
 
 #. CommandsDataModule..actlMain..actEditRedo..Caption
 #: dmCommands.dfm:4022
 msgid "&Redo"
-msgstr ""
+msgstr "&Refazer"
 
 #. CommandsDataModule..actlMain..actEditRedo..Hint
 #: dmCommands.dfm:4025
 msgid "Redo| Redo last action"
-msgstr ""
+msgstr "Refazer| Refazer a última ação"
 
 #. CommandsDataModule..actlMain..actEditSelectAll..Caption
 #. UnitTestWindow..DialogActions..actSelectAll..Caption
 #: dmCommands.dfm:4032 frmUnitTests.dfm:560
 msgid "Select &All"
-msgstr ""
+msgstr "Selecionar &Tudo"
 
 #. CommandsDataModule..actlMain..actEditSelectAll..Hint
 #: dmCommands.dfm:4035
 msgid "Select All|Selects the entire document"
-msgstr ""
+msgstr "Selecionar Tudo|Selecionar o documento inteiro"
 
 #. CommandsDataModule..actlMain..actSearchFind..Category
 #. CommandsDataModule..actlMain..actSearchFindNext..Category
@@ -2424,57 +2424,57 @@ msgstr ""
 #: dmCommands.dfm:4532 dmCommands.dfm:4550 frmEditor.dfm:384
 #: frmRegExpTester.dfm:138
 msgid "Search"
-msgstr ""
+msgstr "Pesquisar"
 
 #. CommandsDataModule..actlMain..actSearchFind..Caption
 #: dmCommands.dfm:4040
 msgid "&Find..."
-msgstr ""
+msgstr "&Localizar..."
 
 #. CommandsDataModule..actlMain..actSearchFind..Hint
 #: dmCommands.dfm:4043
 msgid "Search|Search for a string"
-msgstr ""
+msgstr "Pesquisar|Pesquisar por uma palavra"
 
 #. CommandsDataModule..actlMain..actSearchFindNext..Caption
 #: dmCommands.dfm:4050
 msgid "Find &Next"
-msgstr ""
+msgstr "Localizar &Próxima"
 
 #. CommandsDataModule..actlMain..actSearchFindNext..Hint
 #: dmCommands.dfm:4053
 msgid "Find next|Find next match"
-msgstr ""
+msgstr "Localizar próxima|Localizar próxima correspondência"
 
 #. CommandsDataModule..actlMain..actSearchFindPrev..Caption
 #: dmCommands.dfm:4060
 msgid "Find &Previous"
-msgstr ""
+msgstr "Localizar &Anterior"
 
 #. CommandsDataModule..actlMain..actSearchFindPrev..Hint
 #: dmCommands.dfm:4063
 msgid "Find previous|Find Previous match"
-msgstr ""
+msgstr "Localizar anterior|Localizar correspondência Anterior"
 
 #. CommandsDataModule..actlMain..actSearchReplace..Caption
 #: dmCommands.dfm:4070
 msgid "&Replace..."
-msgstr ""
+msgstr "&Substituir..."
 
 #. CommandsDataModule..actlMain..actSearchReplace..Hint
 #: dmCommands.dfm:4073
 msgid "Replace|Search  & Replace"
-msgstr ""
+msgstr "Substituir|Pesquisar  & Substituir"
 
 #. CommandsDataModule..actlMain..actFileSaveAll..Caption
 #: dmCommands.dfm:4080
 msgid "Save &All"
-msgstr "Salvar &tudo"
+msgstr "Salvar &Tudo"
 
 #. CommandsDataModule..actlMain..actFileSaveAll..Hint
 #: dmCommands.dfm:4082
 msgid "Save all|Save project and all open files"
-msgstr ""
+msgstr "Salvar tudo|Salvar projeto e todos os arquivos abertos"
 
 #. CommandsDataModule..actlMain..actFilePrint..Caption
 #. FindResultsWindow..Actions..actFilePrint..Caption
@@ -2485,12 +2485,12 @@ msgstr "&Imprimir..."
 #. CommandsDataModule..actlMain..actFilePrint..Hint
 #: dmCommands.dfm:4091
 msgid "Print|Print active file"
-msgstr ""
+msgstr "Imprimir|Imprimir arquivo ativo"
 
 #. CommandsDataModule..actlMain..actPrinterSetup..Caption
 #: dmCommands.dfm:4098
 msgid "Printer Set&up..."
-msgstr "Configurar impressão..."
+msgstr "Con&figurar Impressão..."
 
 #. CommandsDataModule..actlMain..actPrinterSetup..Hint
 #: dmCommands.dfm:4100
@@ -2500,7 +2500,7 @@ msgstr "Configurar impressão"
 #. CommandsDataModule..actlMain..actPrintPreview..Caption
 #: dmCommands.dfm:4106
 msgid "Print Pre&view"
-msgstr "Visualizar impre&ssão"
+msgstr "Vis&ualizar Impressão"
 
 #. CommandsDataModule..actlMain..actPrintPreview..Hint
 #: dmCommands.dfm:4108
@@ -2510,7 +2510,7 @@ msgstr "Visualizar impressão"
 #. CommandsDataModule..actlMain..actPageSetup..Caption
 #: dmCommands.dfm:4114
 msgid "Pa&ge Setup..."
-msgstr "Conf&igurar página..."
+msgstr "Configurar Pá&gina..."
 
 #. CommandsDataModule..actlMain..actPageSetup..Hint
 #: dmCommands.dfm:4116
@@ -2520,22 +2520,22 @@ msgstr "Configurar página"
 #. CommandsDataModule..actlMain..actEditorOptions..Caption
 #: dmCommands.dfm:4122
 msgid "&Editor Options..."
-msgstr ""
+msgstr "Opções do &Editor..."
 
 #. CommandsDataModule..actlMain..actEditorOptions..Hint
 #: dmCommands.dfm:4124
 msgid "Set Editor Options"
-msgstr ""
+msgstr "Definir Opções do Editor"
 
 #. CommandsDataModule..actlMain..actIDEOptions..Caption
 #: dmCommands.dfm:4130
 msgid "&IDE Options..."
-msgstr ""
+msgstr "Opções da &IDE..."
 
 #. CommandsDataModule..actlMain..actIDEOptions..Hint
 #: dmCommands.dfm:4132
 msgid "Set IDE Options"
-msgstr ""
+msgstr "Definir Opções da IDE"
 
 #. CommandsDataModule..actlMain..actEditIndent..Category
 #. CommandsDataModule..actlMain..actEditDedent..Category
@@ -2548,77 +2548,77 @@ msgstr ""
 #: dmCommands.dfm:4164 dmCommands.dfm:4181 dmCommands.dfm:4189
 #: dmCommands.dfm:4442
 msgid "Source Code"
-msgstr ""
+msgstr "Código Fonte"
 
 #. CommandsDataModule..actlMain..actEditIndent..Caption
 #: dmCommands.dfm:4138
 msgid "&Indent Block"
-msgstr ""
+msgstr "&Indentar Bloco"
 
 #. CommandsDataModule..actlMain..actEditIndent..Hint
 #: dmCommands.dfm:4140
 msgid "Indent block|Indent selected block of code"
-msgstr ""
+msgstr "Indentar bloco|Indentar o bloco de código selecionado"
 
 #. CommandsDataModule..actlMain..actEditDedent..Caption
 #: dmCommands.dfm:4147
 msgid "&Dedent Block"
-msgstr ""
+msgstr "&Desindentar Bloco"
 
 #. CommandsDataModule..actlMain..actEditDedent..Hint
 #: dmCommands.dfm:4149
 msgid "Dedent|Dedent selected block of code"
-msgstr ""
+msgstr "Desindentar|Desindentar o bloco de código selecionado"
 
 #. CommandsDataModule..actlMain..actEditCommentOut..Caption
 #: dmCommands.dfm:4156
 msgid "&Comment out"
-msgstr ""
+msgstr "&Comentário"
 
 #. CommandsDataModule..actlMain..actEditCommentOut..Hint
 #: dmCommands.dfm:4158
 msgid "Comment out| Comment out block of code"
-msgstr ""
+msgstr "Comentário| Comentário de bloco de código"
 
 #. CommandsDataModule..actlMain..actEditUncomment..Caption
 #: dmCommands.dfm:4165
 msgid "&Uncomment"
-msgstr ""
+msgstr "&Descomentar"
 
 #. CommandsDataModule..actlMain..actEditUncomment..Hint
 #: dmCommands.dfm:4167
 msgid "Uncomment| Uncomment block of code"
-msgstr ""
+msgstr "Descomentar| Descomentar bloco de código"
 
 #. CommandsDataModule..actlMain..actSearchMatchingBrace..Caption
 #: dmCommands.dfm:4174
 msgid "&Matching Brace"
-msgstr ""
+msgstr "&Matching Brace"
 
 #. CommandsDataModule..actlMain..actSearchMatchingBrace..Hint
 #: dmCommands.dfm:4176
 msgid "Find Matching Brace"
-msgstr ""
+msgstr "Localizar Matching Brace"
 
 #. CommandsDataModule..actlMain..actEditTabify..Caption
 #: dmCommands.dfm:4182
 msgid "&Tabify"
-msgstr ""
+msgstr "&Tabulações"
 
 #. CommandsDataModule..actlMain..actEditTabify..Hint
 #: dmCommands.dfm:4184
 msgid "Tabify|Convert spaces to tabs"
-msgstr ""
+msgstr "Tabulações|Converter espaços em tabulações"
 
 #. CommandsDataModule..actlMain..actEditUntabify..Caption
 #: dmCommands.dfm:4190
 msgid "U&ntabify"
-msgstr ""
+msgstr "U&ntabify"
 
 #. CommandsDataModule..actlMain..actEditUntabify..Hint
 #: dmCommands.dfm:4192
 msgid "Untabify|Convert tabs to spaces"
-msgstr ""
+msgstr "Untabify|Converter tabulações em espaços"
 
 #. CommandsDataModule..actlMain..actPythonPath..Category
 #. CommandsDataModule..actlMain..actConfigureTools..Category
@@ -2629,17 +2629,17 @@ msgstr ""
 #: dmCommands.dfm:4197 dmCommands.dfm:4320 dmCommands.dfm:4419
 #: dmCommands.dfm:4426 dmCommands.dfm:4589 frmPyIDEMain.dfm:1064
 msgid "Tools"
-msgstr ""
+msgstr "Ferramentas"
 
 #. CommandsDataModule..actlMain..actPythonPath..Caption
 #: dmCommands.dfm:4198
 msgid "Python &Path..."
-msgstr ""
+msgstr "&Caminho do Python..."
 
 #. CommandsDataModule..actlMain..actPythonPath..Hint
 #: dmCommands.dfm:4200
 msgid "Python Path|View or edit the Python path"
-msgstr ""
+msgstr "Caminho do Python|Visualizar ou editar o caminho do Python"
 
 #. CommandsDataModule..actlMain..actHelpContents..Category
 #. CommandsDataModule..actlMain..actPythonManuals..Category
@@ -2662,314 +2662,314 @@ msgstr ""
 #: frmFindResults.dfm:329 frmFunctionList.dfm:291 frmFunctionList.dfm:293
 #: frmRegExpTester.dfm:165 frmToDo.dfm:547 frmToDo.dfm:549
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 #. CommandsDataModule..actlMain..actHelpContents..Caption
 #: dmCommands.dfm:4206
 msgid "&Contents"
-msgstr ""
+msgstr "&Conteúdo"
 
 #. CommandsDataModule..actlMain..actHelpContents..Hint
 #: dmCommands.dfm:4210
 msgid "Help Contents"
-msgstr ""
+msgstr "Conteúdo da Ajuda"
 
 #. CommandsDataModule..actlMain..actPythonManuals..Caption
 #: dmCommands.dfm:4216
 msgid "&Python Manuals"
-msgstr ""
+msgstr "Manuais do &Python"
 
 #. CommandsDataModule..actlMain..actPythonManuals..Hint
 #: dmCommands.dfm:4219
 msgid "Show Python Manuals"
-msgstr ""
+msgstr "Mostrar Manuais do Python"
 
 #. CommandsDataModule..actlMain..actAbout..Caption
 #: dmCommands.dfm:4225
 msgid "About..."
-msgstr ""
+msgstr "Sobre..."
 
 #. CommandsDataModule..actlMain..actAbout..Hint
 #: dmCommands.dfm:4227
 msgid "About|Info about the application"
-msgstr ""
+msgstr "Sobre|Informações sobre o aplicativo"
 
 #. CommandsDataModule..actlMain..actSearchGoToLine..Caption
 #: dmCommands.dfm:4233
 msgid "Go To &Line..."
-msgstr ""
+msgstr "Ir Para &Linha..."
 
 #. CommandsDataModule..actlMain..actSearchGoToLine..Hint
 #. Programmer's name for it: SGoToLineNumber
 #: dmCommands.dfm:4235 StringResources.pas:58
 msgid "Go to line number"
-msgstr ""
+msgstr "Ir para a linha número"
 
 #. CommandsDataModule..actlMain..actSearchGoToSyntaxError..Caption
 #: dmCommands.dfm:4242
 msgid "Go To Syntax &Error"
-msgstr ""
+msgstr "Ir Para o &Erro de Sintaxe"
 
 #. CommandsDataModule..actlMain..actSearchGoToSyntaxError..Hint
 #: dmCommands.dfm:4244
 msgid "Jump to the position of the first syntax error"
-msgstr ""
+msgstr "Saltar para a posição do primeiro erro de sintaxe"
 
 #. CommandsDataModule..actlMain..actFindInFiles..Caption
 #: dmCommands.dfm:4251
 msgid "&Find in Files..."
-msgstr ""
+msgstr "&Localizar nos Arquivos..."
 
 #. CommandsDataModule..actlMain..actFindInFiles..Hint
 #: dmCommands.dfm:4253
 msgid "Search in Files|Search for a string in Files"
-msgstr ""
+msgstr "Pesquizar nos Arquivos|Pesquisar por uma palavra nos Arquivos"
 
 #. CommandsDataModule..actlMain..actParameterCompletion..Caption
 #: dmCommands.dfm:4260
 msgid "Insert &parameter"
-msgstr ""
+msgstr "Inserir &parâmetro"
 
 #. CommandsDataModule..actlMain..actParameterCompletion..Hint
 #. CommandsDataModule..actlMain..actModifierCompletion..Hint
 #: dmCommands.dfm:4262 dmCommands.dfm:4270
 msgid "Insert parameter to the edited file"
-msgstr ""
+msgstr "Inserir parâmetro para o arquivo editado"
 
 #. CommandsDataModule..actlMain..actModifierCompletion..Caption
 #: dmCommands.dfm:4268
 msgid "Insert &modifier"
-msgstr ""
+msgstr "Inserir &modificador"
 
 #. CommandsDataModule..actlMain..actReplaceParameters..Caption
 #: dmCommands.dfm:4276
 msgid "&Replace parameters"
-msgstr ""
+msgstr "&Substituir parâmetros"
 
 #. CommandsDataModule..actlMain..actReplaceParameters..Hint
 #: dmCommands.dfm:4278
 msgid "Replace parameters with their values"
-msgstr ""
+msgstr "Substituir parâmetros com seus valores"
 
 #. CommandsDataModule..actlMain..actHelpParameters..Caption
 #: dmCommands.dfm:4284
 msgid "&Parameters"
-msgstr ""
+msgstr "&Parâmetros"
 
 #. CommandsDataModule..actlMain..actHelpParameters..Hint
 #: dmCommands.dfm:4286
 msgid "Help on custom parameters"
-msgstr ""
+msgstr "Ajuda com parâmetros personalizados"
 
 #. CommandsDataModule..actlMain..actInsertTemplate..Caption
 #: dmCommands.dfm:4291
 msgid "Insert &Template"
-msgstr ""
+msgstr "Inserir &Modelo"
 
 #. CommandsDataModule..actlMain..actInsertTemplate..Hint
 #: dmCommands.dfm:4293
 msgid "Insert a Code Template"
-msgstr ""
+msgstr "Inserir um Modelo de Código"
 
 #. CommandsDataModule..actlMain..actCustomizeParameters..Caption
 #: dmCommands.dfm:4299
 msgid "Custom &Parameters..."
-msgstr ""
+msgstr "&Parâmetros Personalizados..."
 
 #. CommandsDataModule..actlMain..actCustomizeParameters..Hint
 #: dmCommands.dfm:4301
 msgid "Add/Remove custom parameters"
-msgstr ""
+msgstr "Adicionar/Remover parâmetros personalizados"
 
 #. CommandsDataModule..actlMain..actIDEShortcuts..Caption
 #: dmCommands.dfm:4306
 msgid "IDE &Shortcuts..."
-msgstr ""
+msgstr "&Atalhos da IDE..."
 
 #. CommandsDataModule..actlMain..actIDEShortcuts..Hint
 #: dmCommands.dfm:4308
 msgid "Customize IDE shortcuts"
-msgstr ""
+msgstr "Personalizar os atalhos da IDE"
 
 #. CommandsDataModule..actlMain..actCodeTemplates..Caption
 #: dmCommands.dfm:4314
 msgid "&Code Templates..."
-msgstr ""
+msgstr "Modelos de &Código..."
 
 #. CommandsDataModule..actlMain..actCodeTemplates..Hint
 #: dmCommands.dfm:4316
 msgid "Add/Remove code templates"
-msgstr ""
+msgstr "Adicionar/Remover modelos de código"
 
 #. CommandsDataModule..actlMain..actConfigureTools..Caption
 #: dmCommands.dfm:4321
 msgid "Configure &Tools..."
-msgstr ""
+msgstr "Configurar &Ferramentas..."
 
 #. CommandsDataModule..actlMain..actConfigureTools..Hint
 #: dmCommands.dfm:4323
 msgid "Configure Tools|Add/remove/edit command-line tools"
-msgstr ""
+msgstr "Configurar Ferramentas|Adicionar/remover/editar ferramentas de linha de comando"
 
 #. CommandsDataModule..actlMain..actHelpExternalTools..Caption
 #: dmCommands.dfm:4329
 msgid "External &Tools"
-msgstr ""
+msgstr "&Ferramentas Externas"
 
 #. CommandsDataModule..actlMain..actHelpExternalTools..Hint
 #: dmCommands.dfm:4331
 msgid "Help on External Tools"
-msgstr ""
+msgstr "Ajuda com Ferramentas Externas"
 
 #. CommandsDataModule..actlMain..actFindFunction..Caption
 #: dmCommands.dfm:4336
 msgid "Find F&unction..."
-msgstr ""
+msgstr "Localizar F&unção..."
 
 #. CommandsDataModule..actlMain..actFindFunction..Hint
 #: dmCommands.dfm:4338
 msgid "Find Function|Find function from function list"
-msgstr ""
+msgstr "Localizar Função|Localizar função da lista de funções"
 
 #. CommandsDataModule..actlMain..actEditLineNumbers..Caption
 #: dmCommands.dfm:4345
 msgid "Line &Numbers"
-msgstr ""
+msgstr "&Números de Linha"
 
 #. CommandsDataModule..actlMain..actEditLineNumbers..Hint
 #: dmCommands.dfm:4347
 msgid "Show/Hide line numbers"
-msgstr ""
+msgstr "Mostrar/Ocultar números de linha"
 
 #. CommandsDataModule..actlMain..actEditShowSpecialChars..Caption
 #: dmCommands.dfm:4353
 msgid "Special &Characters"
-msgstr ""
+msgstr "&Caracteres Especiais"
 
 #. CommandsDataModule..actlMain..actEditShowSpecialChars..Hint
 #: dmCommands.dfm:4355
 msgid "Show/Hide special characters"
-msgstr ""
+msgstr "Mostrar/Ocultar caracteres especiais"
 
 #. CommandsDataModule..actlMain..actFindPreviousReference..Caption
 #: dmCommands.dfm:4362
 msgid "Find Previous Reference"
-msgstr ""
+msgstr "Localizar Referência Anterior"
 
 #. CommandsDataModule..actlMain..actFindPreviousReference..Hint
 #: dmCommands.dfm:4364
 msgid "Find previous identifier reference"
-msgstr ""
+msgstr "Localizar identificador da referência anterior"
 
 #. CommandsDataModule..actlMain..actFindNextReference..Caption
 #: dmCommands.dfm:4370
 msgid "Find Next Reference"
-msgstr ""
+msgstr "Localizar Próxima Referência"
 
 #. CommandsDataModule..actlMain..actFindNextReference..Hint
 #: dmCommands.dfm:4372
 msgid "Find next identifier reference"
-msgstr ""
+msgstr "Localizar próximo identificador de referência"
 
 #. CommandsDataModule..actlMain..actEditLBDos..Hint
 #: dmCommands.dfm:4381
 msgid "DOS/Windows|Convert to DOS Linebreak"
-msgstr ""
+msgstr "DOS/Windows|Converter para Quebra de linha DOS"
 
 #. CommandsDataModule..actlMain..actEditLBUnix..Hint
 #: dmCommands.dfm:4390
 msgid "UNIX|Convert to UNIX Linebreak"
-msgstr ""
+msgstr "UNIX|Converter para Quebra de linha UNIX"
 
 #. CommandsDataModule..actlMain..actEditLBMac..Hint
 #: dmCommands.dfm:4399
 msgid "Mac|Convert to Mac Linebreak"
-msgstr ""
+msgstr "Mac|Converter para Quebra de linha Mac"
 
 #. CommandsDataModule..actlMain..actEditAnsi..Hint
 #: dmCommands.dfm:4408
 msgid "Use Ansi encoding"
-msgstr ""
+msgstr "Usar a codificação ANSI"
 
 #. CommandsDataModule..actlMain..actHelpEditorShortcuts..Caption
 #: dmCommands.dfm:4413
 msgid "Editor &Shortcuts"
-msgstr ""
+msgstr "&Atalhos do Editor"
 
 #. CommandsDataModule..actlMain..actHelpEditorShortcuts..Hint
 #: dmCommands.dfm:4415
 msgid "Help on editor shortcuts"
-msgstr ""
+msgstr "Ajuda com atalhos do editor"
 
 #. CommandsDataModule..actlMain..actCheckForUpdates..Caption
 #: dmCommands.dfm:4420
 msgid "Check For &Updates"
-msgstr ""
+msgstr "Verificar &Atualizações"
 
 #. CommandsDataModule..actlMain..actCheckForUpdates..Hint
 #: dmCommands.dfm:4422
 msgid "Check whether a newer version of PyScripter is available"
-msgstr ""
+msgstr "Verificar se uma versão mais recente do PyScripter está disponível"
 
 #. CommandsDataModule..actlMain..actUnitTestWizard..Caption
 #: dmCommands.dfm:4427
 msgid "&Unit Test Wizard..."
-msgstr ""
+msgstr "Assistente de Teste de &Unidade..."
 
 #. CommandsDataModule..actlMain..actUnitTestWizard..Hint
 #: dmCommands.dfm:4429
 msgid "unitest wizard|Create unitests for active module"
-msgstr ""
+msgstr "Assistente de teste de &unidade|Criar testes de unidade para o módulo ativo"
 
 #. CommandsDataModule..actlMain..actInterpreterEditorOptions..Caption
 #: dmCommands.dfm:4435
 msgid "&Interpreter Editor Options..."
-msgstr ""
+msgstr "Opções do Editor &Interpretador..."
 
 #. CommandsDataModule..actlMain..actInterpreterEditorOptions..Hint
 #: dmCommands.dfm:4437
 msgid "Set Interpreter Editor Options"
-msgstr ""
+msgstr "Definir as Opções do Editor Interpretador"
 
 #. CommandsDataModule..actlMain..actEditToggleComment..Caption
 #: dmCommands.dfm:4443
 msgid "Toggle &Comment"
-msgstr ""
+msgstr "&Comentário de Alternância"
 
 #. CommandsDataModule..actlMain..actEditToggleComment..Hint
 #: dmCommands.dfm:4445
 msgid "Toggle Comment| Comment/Uncomment block of code"
-msgstr ""
+msgstr "Comentário de Alternância|Comentar/Descomentar bloco de código"
 
 #. CommandsDataModule..actlMain..actFileTemplates..Caption
 #: dmCommands.dfm:4452
 msgid "&File Templates..."
-msgstr ""
+msgstr "Modelos de &Arquivo..."
 
 #. CommandsDataModule..actlMain..actFileTemplates..Hint
 #: dmCommands.dfm:4454
 msgid "Add/Remove file templates"
-msgstr ""
+msgstr "Adicionar/Remover modelos de arquivo"
 
 #. CommandsDataModule..actlMain..actEditUTF8..Hint
 #: dmCommands.dfm:4462
 msgid "Use UTF-8 encoding when saving the file"
-msgstr ""
+msgstr "Usar codificação UTF-8 ao salvar o arquivo"
 
 #. CommandsDataModule..actlMain..actEditUTF8NoBOM..Hint
 #: dmCommands.dfm:4470
 msgid "Use UTF-8 enconding without BOM"
-msgstr ""
+msgstr "Usar codificação UTF-8 sem BOM"
 
 #. CommandsDataModule..actlMain..actEditUTF16LE..Hint
 #: dmCommands.dfm:4478
 msgid "Use UTF-16LE enconding"
-msgstr ""
+msgstr "Usar codificação UTF-16LE"
 
 #. CommandsDataModule..actlMain..actEditUTF16BE..Hint
 #: dmCommands.dfm:4486
 msgid "Use UTF-16BE enconding"
-msgstr ""
+msgstr "Usar codificação UTF-16BE"
 
 #. CommandsDataModule..actlMain..actFileReload..Caption
 #: dmCommands.dfm:4491
@@ -2979,7 +2979,7 @@ msgstr "&Recarregar"
 #. CommandsDataModule..actlMain..actFileReload..Hint
 #: dmCommands.dfm:4494
 msgid "Reload|Reload active file"
-msgstr ""
+msgstr "Recarregar|Recarregar o arquivo ativo"
 
 #. CommandsDataModule..actlMain..actImportShortcuts..Category
 #. CommandsDataModule..actlMain..actExportShortCuts..Category
@@ -2989,14 +2989,14 @@ msgstr ""
 #: dmCommands.dfm:4499 dmCommands.dfm:4505 dmCommands.dfm:4511
 #: dmCommands.dfm:4517 frmPyIDEMain.dfm:1087
 msgid "Import/Export"
-msgstr ""
+msgstr "Importar/Exportar"
 
 #. CommandsDataModule..actlMain..actImportShortcuts..Caption
 #. CommandsDataModule..actlMain..actImportShortcuts..Hint
 #. Programmer's name for it: SImportShortcuts
 #: dmCommands.dfm:4500 dmCommands.dfm:4501 StringResources.pas:119
 msgid "Import Shortcuts"
-msgstr ""
+msgstr "Importar Atalhos"
 
 #. CommandsDataModule..actlMain..actExportShortCuts..Caption
 #. CommandsDataModule..actlMain..actExportShortCuts..Hint
